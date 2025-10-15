@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kitsada Ketrai
 =======================================================================================================================================
 
-A Frontend Developer is responsible for building and implementing the visual and interactive elements of a website or web application that users engage with directly. The main goal is to transform design mockups (UI/UX) into functional, responsive, and visually appealing web pages.
+My name is Kitsada Ketrai. I am currently pursuing a Bachelor's degree in Computer Engineering at Kasetsart University. I am a dedicated Front-end Developer with hands-on experience in front-end development.
 
 * 🌍  I'm based in thailand
 * ✉️  You can contact me at [kitsada.ke@ku.th](mailto:kitsada.ke@ku.th)
