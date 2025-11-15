@@ -9,13 +9,13 @@ I am currently pursuing a Bachelor's degree in Computer Engineering at Kasetsart
 
 <p align="left">
 
-<h3>💻 Core</h3>
+<h4>💻 Core</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
 </a>
 
 </br>
-<h3>💻 Frontend</h3>
+<h4>💻 Frontend</h4>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
 </a>
@@ -33,21 +33,21 @@ I am currently pursuing a Bachelor's degree in Computer Engineering at Kasetsart
 </a>
 
 </br>
-<h3>💻 Backend and Database</h3>
+<h4>💻 Backend and Database</h4>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
 </a>
 
 
 </br>
-<h3>💻 Software</h3>
+<h4>💻 Software</h4>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" />
 </a>
 
 
 </br>
-<h3>💻 Other</h3>
+<h4>💻 Other</h4>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" />
 </a>
