@@ -13,7 +13,9 @@ I am currently pursuing a Bachelor's degree in Computer Engineering at Kasetsart
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
 </a>
-  
+
+</br>
+<p>💻 Frontend</p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
 </a>
