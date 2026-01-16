@@ -16,7 +16,7 @@ I am currently pursuing a Bachelor's degree in Computer Engineering at Kasetsart
 
 </br>
 <h4>💻 Frontend</h4>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
