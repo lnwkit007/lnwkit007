@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am currently pursuing a Bachelor's degree in Computer Engineering at Kasetsart University. I am a dedicated Front-end Developer with hands-on experience in front-end development.
 
 * 🌍  I'm based in thailand
-* ✉️  You can contact me at [kitsada.ke@ku.th](mailto:k70706938@gmail.com)
+* ✉️  You can contact me at [k70706938@gmail.com](mailto:k70706938@gmail.com)
 * 🧠  I'm currently learning Kasetsart University
 
 <p align="left">
