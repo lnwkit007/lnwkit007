@@ -40,7 +40,7 @@ I am a Developer with experience in front-end development and a strong interest 
   <img width="6" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="40" height="40" />
   <img width="6" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/>
 </div>
 
 ###
