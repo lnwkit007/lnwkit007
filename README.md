@@ -64,6 +64,8 @@ I am a Developer with experience in front-end development and a strong interest 
   
 ### 🛠️ Tools
 <p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="" alt="" width="2" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="postman" width="40" height="40"/>
   <img src="" alt="" width="2" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="40" height="40" />
