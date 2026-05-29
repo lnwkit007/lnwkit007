@@ -91,4 +91,7 @@ I am a Developer with experience in front-end development and a strong interest 
   <a href="mailto:k70706938@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.facebook.com/kitsada.ketrai.2024">
+    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
