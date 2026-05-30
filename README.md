@@ -2,12 +2,14 @@
 
 ###
 
+
 <p align="left">
 I am currently pursuing a Bachelor's degree in Computer Engineering at Kasetsart University. 
 I am a Developer with experience in front-end development and a strong interest in full-stack development.
 </p>
 
 ###
+
 
 <div align="center">
 <table>
@@ -82,6 +84,7 @@ I am a Developer with experience in front-end development and a strong interest 
 </div>
 
 ###
+
 
 <h3 align="left">📱 You can contact me</h3>
 
